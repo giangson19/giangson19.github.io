@@ -56,6 +56,17 @@ ninja.data = [{
             window.open("https://giangson.me/blog/whats-it-like-to-study-in-a-masters/", "_blank");
           
         },
+      },{id: "post-gentle-introduction-to-linear-regression",
+        
+          title: "Gentle introduction to Linear Regression",
+        
+        description: "A gentle introduction to the simplest machine learning problem, linear regression.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/gentle-introduction-to-linear-regression/";
+          
+        },
       },{id: "post-my-mentoring-experience",
         
           title: "My mentoring experience",
