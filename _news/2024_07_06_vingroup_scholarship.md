@@ -3,7 +3,9 @@ layout: post
 title: I was awarded the Vingroup Science and Technology Scholarship for Master's study.
 date: 2024-07-06 16:11:00-0400
 inline: false
-related_posts: false
+related_posts: true
+categories: study
+tags: ntu, scholarship, data-science
 ---
 Last week I had the memorable experience of attending the Pre-Departure Orientation and Award Ceremony for the Vingroup Scholarships Program. 
 
