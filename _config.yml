@@ -204,7 +204,7 @@ exclude:
   - _pages/teaching.md
   - _pages/dropdown.md
   - _pages/profiles.md
-  - _pages/cv.md
+  # - _pages/cv.md
   - _posts/samples/
 
 keep_files:
@@ -640,9 +640,9 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+# jekyll_get_json:
+#   - data: resume
+#     json: assets/json/resume.json # it can also be an url
 
 jsonresume:
   - basics
