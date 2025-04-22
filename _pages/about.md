@@ -29,7 +29,7 @@ latest_posts:
 
 Hi, My name is **Son** and I am a MSc Data Science student at [Nanyang Technological University](https://www.ntu.edu.sg/), College of Computing and Data Science. I am fortunate enough to have been fully sponsored by the [Vingroup Scholarship Program](https://scholarships.vinuni.edu.vn/masters-ph-d-scholarship-program/) for my study at NTU.
 
-Concurrently, I am also working as an research intern in AI at [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu). I'm supervised by [Assoc. Prof. Shang-wei Lin](https://shangweilin.github.io/) and [Dr. Yon Shin Teo](https://openreview.net/profile?id=~Yon_Shin_Teo1). My research interests as of April 2025 include: vision-language models, image captioning, visual question answering, factual error detection.
+Concurrently, I am also working as an research intern in AI at [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu). I'm supervised by [Assoc. Prof. Shang-wei Lin](https://shangweilin.github.io/) and [Dr. Yon Shin Teo](https://openreview.net/profile?id=~Yon_Shin_Teo1). My ongoing research project involves: vision-language models, image captioning, visual question answering.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
