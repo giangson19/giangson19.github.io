@@ -377,8 +377,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-finished-my-969-days-journey-as-data-analyst-at-one-mount-group",
-          title: 'I finished my 969 days journey as Data Analyst at One Mount Group....',
+            },},{id: "news-i-finished-my-969-day-journey-as-data-analyst-at-one-mount-group",
+          title: 'I finished my 969-day journey as Data Analyst at One Mount Group.',
           description: "",
           section: "News",},{id: "news-i-was-awarded-the-vingroup-science-and-technology-scholarship-for-master-39-s-study",
           title: 'I was awarded the Vingroup Science and Technology Scholarship for Master&amp;#39;s study.',
