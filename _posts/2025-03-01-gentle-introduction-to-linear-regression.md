@@ -14,7 +14,7 @@ toc:
 <p>You could, in theory, go to some real estate guru and they would tell you, based on their knowledge and experience and whatnot, how much they think the house is worth. However, this manual approach may have some downsides: an expert&rsquo;s estimate could be costly, slow and biased / subjective.</p>
 <p>Now, suppose you already have some historical data about other houses and their prices, then you can turn to machine learning to get a cheap and <em>unbiased</em> estimate.</p>
 
-{% include figure.liquid path="assets/img/posts/lr_data_table.png"  class="img-fluid z-depth-1" style = "width:75%" %}
+{% include figure.liquid path="assets/img/posts/linear_regression/lr_data_table.png"  class="img-fluid z-depth-1" style = "width:75%" %}
 
 <h1>The data</h1>
 <p>(The dataset I used as example can be downloaded from Kaggle <a href="https://www.kaggle.com/datasets/lespin/house-prices-dataset">at this link</a>).</p>
@@ -30,7 +30,7 @@ toc:
 <p>By machine learning convention, we usually divide the dataset into two parts: 80% of the rows will be used for training, and 20% will be used for testing. (We reserve the 20% testing set to simulate the fact that real world, our model will make predictions on data it has not seen before - we shall see how it is used to evaluate our model in a later section). We denote the number of examples used for training as \(N\), and the number of features as \(P\). In this case, \(P = 5\) and \(N = 1168\).</p>
 <p>Now if you squint your eyes hard enough, this table sort of looks like&hellip; a matrix. For the features, it is a matrix of \(N\) rows and \(P\) columns. For the label, it is a matrix of \(N\) rows and \(1\) column (equivalently, a column vector). We call the matrix for the features \(X\), and the label vector \(y\). (The \(y\) is in lowercase because it is a vector, whereas \(X\) is a matrix). Formally, \(X \in \mathbb{R} ^ {N \times P}\) and \(y \in \mathbb{R} ^{P}\).</p>
 
-{% include figure.liquid path="assets/img/posts/lr_data_table_matrix.png"  class="img-fluid z-depth-1" style = "width:75%" %}
+{% include figure.liquid path="assets/img/posts/linear_regression/lr_data_table_matrix.png"  class="img-fluid z-depth-1" style = "width:75%" %}
 
 <p>And here is the matrices written out explicitly:</p>
 <p style="text-align: center;">\( \mathbf{X} = \begin{bmatrix} 7 &amp; 3 &amp; 2 &amp; 2 &amp; 1710 \\ 6 &amp; 3 &amp; 2 &amp; 2 &amp; 1262 \\ 7 &amp; 3 &amp; 2 &amp; 2 &amp; 1786 \\ 7 &amp; 3 &amp; 3 &amp; 1 &amp; 1717 \\ 8 &amp; 4 &amp; 3 &amp; 2 &amp; 2198 \\ \vdots &amp; \vdots &amp; \vdots &amp; \vdots &amp; \vdots \\ 6 &amp; 3 &amp; 2 &amp; 2 &amp; 1647 \\ 6 &amp; 3 &amp; 2 &amp; 2 &amp; 2073 \\ 7 &amp; 4 &amp; 1 &amp; 2 &amp; 2340 \\ 5 &amp; 2 &amp; 1 &amp; 1 &amp; 1078 \\ 5 &amp; 3 &amp; 1 &amp; 1 &amp; 1256 \end{bmatrix} \)</p>
@@ -106,7 +106,9 @@ $$
 <p>\(RMSE = 41832.23667930187\)</p>
 <p>So when we use this model to estimate house prices, its output is, on average, about \$41k off the actual price. Considering that the average price is around \$180k, this is not completely terrible.</p>
 <p>We can examine this in a bit more details by plotting the Predicted Price and the Actual Price. The closer the points are to the red line, the smaller the error. If a model is 100% accurate, all the dots will be on the red line, hence error will be 0. You can see that the model does pretty well for houses worth below $350k, it is the extremely expensive houses (400k and above) that the model struggles with.</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="blob:https://giangson.me/fc3458a3-04bc-4d62-a61d-220e4862e25c" width="50%"></p>
+
+{% include figure.liquid path="assets/img/posts/linear_regression/lr_actual_vs_predicted.png"  class="img-fluid z-depth-1" style = "width:75%" %}
+
 <p>And the effectiveness of this model can be due to a few reasons:</p>
 <ul>
 <li>First, the model we chose (linear regression) is rather a decent choice for a model because lots of variables in the real world follow a linear relationship. Not all relationships are linear, but a lot.</li>
