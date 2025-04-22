@@ -24,7 +24,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 
 Hi, My name is **Son** and I am a MSc Data Science student at [Nanyang Technological University](https://www.ntu.edu.sg/), College of Computing and Data Science. I am fortunate enough to have been fully sponsored by the [Vingroup Scholarship Program](https://scholarships.vinuni.edu.vn/masters-ph-d-scholarship-program/) for my study at NTU.

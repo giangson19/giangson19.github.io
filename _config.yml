@@ -127,8 +127,12 @@ external_sources:
   #   rss_url: https://medium.com/@al-folio/feed
   - name: Giang Son's Blog
     posts:
+      - url: https://giangson.me/blog/quick-introduction-to-federated-learning/
+        published_date: 2025-04-05
+        categories: study
+        tags: data-science, machine-learning
       - url: https://giangson.me/blog/whats-it-like-to-study-in-a-masters/
-        published_date: 2024-03-15
+        published_date: 2025-03-15
         categories: study
         tags: data-science
 
