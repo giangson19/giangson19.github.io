@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I finished my 969 days journey as Data Analyst at [One Mount Group](https://onemount.com/).
+I finished my 969-day journey as Data Analyst at [One Mount Group](https://onemount.com/).
