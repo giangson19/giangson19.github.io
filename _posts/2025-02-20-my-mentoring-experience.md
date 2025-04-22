@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My mentoring experience
-date: 2025-03-01
+date: 2025-02-20
 description: Looking back at the times when I shared my knowledge
 tags: data-analytics, data-science, machine-learning
 categories: work
