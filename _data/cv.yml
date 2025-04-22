@@ -41,6 +41,27 @@
         - Collected, preprocessed and managed financial data using Python and Stata.
         - Developed web crawling script to detect e-commerce sites.
 
+- title: Industry Experience
+  type: time_table
+  contents:
+    - title: Data Analyst
+      institution: One Mount Group
+      year: 2021.10-2024.05
+      description:
+        - title: Business Intelligence
+          contents:
+            - Conducted in-depth visual and statistical analyses to uncover trends and patterns in supermarket transactions, real estate purchases, in-app and website behavior, and customer profiles.
+            - Provided data-driven insights into customer segments to inform retention and acquisition strategies.
+            - Designed and developed visualizations (Tableau, Power BI) for centralized dashboard platforms used by C-suite executives and department leads. 
+        - title: Data Engineering
+          contents:
+            - Designed dimensional models for domain-specific data marts.
+            - Developed, optimized, and maintained ELT pipelines (dbt, Airflow) for downstream dashboards and analytical reports.
+            - Designed and implemented simple data quality checking system (Python, SQL); significantly reducing manual effort in monitoring housing transactions data.
+        - title: Machine Learning
+          contents:
+            - Applied machine learning models (CatBoost, Random Forest) for predicting customer attributes (e.g., income), interests (e.g., vouchers, tickets), and behavior (e.g., real estate purchases).
+            - Conducted exploratory data analysis and feature engineering on large-scale datasets. Performed hyper-parameter tuning (GridSearchCV, RandomSearchCV) to improve model performance.
 # - title: Open Source Projects
 #   type: time_table
 #   contents:
