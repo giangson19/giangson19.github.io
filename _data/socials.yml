@@ -46,6 +46,6 @@ linkedin_username: nguyengiangson # your LinkedIn user name
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: assets/img/favicon.png # can be png, svg, jpg
+  logo: assets/img/favicon_blue.png # can be png, svg, jpg
   title: Personal Blog
   url: https://www.giangson.me/
