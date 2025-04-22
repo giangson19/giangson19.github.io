@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/blog/969-days-in-the-life-of-a-data-analyst/";
           
         },
+      },{id: "post-quick-introduction-to-federated-learning",
+        
+          title: 'Quick Introduction to Federated Learning <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "A short technical introduction to federated learning, a framework for privacy preserving machine learning.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://giangson.me/blog/quick-introduction-to-federated-learning/", "_blank");
+          
+        },
       },{id: "post-what-s-it-like-to-study-in-a-master-s",
         
           title: 'What’s it like to study in a Master’s? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -36,6 +47,17 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://giangson.me/blog/whats-it-like-to-study-in-a-masters/", "_blank");
+          
+        },
+      },{id: "post-my-mentoring-experience",
+        
+          title: "My mentoring experience",
+        
+        description: "Looking back at the times when I shared my knowledge",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/my-mentoring-experience/";
           
         },
       },{id: "books-the-godfather",
