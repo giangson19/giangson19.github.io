@@ -5,6 +5,7 @@ date: 2025-03-01
 description: Looking back at the times when I shared my knowledge
 tags: data-analytics, data-science, machine-learning
 categories: work
+giscus_comments: true
 ---
 <p style="text-align: justify;">From Sep to Nov 2024, I was a <strong>Data Analytics Mentor</strong> (teaching assistant) at <strong>MindX Technology School</strong>. I mentored a group of 10 adult learners in Python, SQL and Power BI lessons. I expanded on concepts taught by the main teacher, guided students through technical exercises and provided them with practical advice on pursuing a career in data.&nbsp;</p>
 <p style="text-align: justify;">Between Dec 2022 and May 2024, I was a <strong>Data Analytics Mentor</strong> (internal trainer) at <strong>One Mount</strong>. I built a custom curriculum and taught a 5-lesson introductory SQL course for 30+ colleagues from the Marketing and Business Development department in Dec 2022. I gave practical advice on querying large datasets (billions of rows) and analytical methods specific to our business context.</p>

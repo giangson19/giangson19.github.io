@@ -103,7 +103,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
+  repo: giangson19/giangson19.github.io # <your-github-user-name>/<your-github-repo-name>
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
@@ -116,7 +116,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: giangson-blog # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -127,10 +127,6 @@ external_sources:
   #   rss_url: https://medium.com/@al-folio/feed
   - name: Giang Son's Blog
     posts:
-      - url: https://giangson.me/blog/quick-introduction-to-federated-learning/
-        published_date: 2025-04-05
-        categories: study
-        tags: data-science, machine-learning
       - url: https://giangson.me/blog/whats-it-like-to-study-in-a-masters/
         published_date: 2025-03-15
         categories: study

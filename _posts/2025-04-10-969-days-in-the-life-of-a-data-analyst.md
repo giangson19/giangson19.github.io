@@ -5,6 +5,7 @@ date: 2025-04-10
 description: A summary of what I did in my previous industry job as a Data Analyst
 tags: data-analytics, data-science, machine-learning
 categories: work
+giscus_comments: true
 ---
 
 <p style="text-align: justify;">Before my Master's, I worked as a&nbsp;<strong>Data Analyst</strong> at <a href="https://onemount.com/" target="_blank" rel="noopener"><strong>One Mount Group</strong></a> (leading tech ecosystem with 3 digital products) from Oct 2021 until May 2024. I was recruited by the Talent Incubation Program (Fresh Geeks) and was mentored by <a href="https://www.linkedin.com/in/vuhoangt/">Vu Hoang</a> (now PhD Student in Information Systems, CMU). I started in the <a href="https://vinid.net/">VinID</a> analytics team (lifestyle &amp; fintech app, 13+ million users) and then worked simultaneously in the&nbsp;<a href="https://onehousing.vn/">OneHousing</a> team (proptech, 1-2 million monthly traffic) from mid 2022.</p>
