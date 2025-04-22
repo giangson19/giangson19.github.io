@@ -36,13 +36,13 @@ ninja.data = [{
         },
       },{id: "post-quick-introduction-to-federated-learning",
         
-          title: 'Quick Introduction to Federated Learning <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: "Quick introduction to Federated Learning",
         
         description: "A short technical introduction to federated learning, a framework for privacy preserving machine learning.",
         section: "Posts",
         handler: () => {
           
-            window.open("https://giangson.me/blog/quick-introduction-to-federated-learning/", "_blank");
+            window.location.href = "/blog/quick-introduction-to-federated-learning/";
           
         },
       },{id: "post-what-s-it-like-to-study-in-a-master-s",
