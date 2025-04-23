@@ -195,7 +195,7 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/projects.md
-  - _pages/repositories.md
+  # - _pages/repositories.md
   - _pages/publications.md
   - _pages/teaching.md
   - _pages/dropdown.md
