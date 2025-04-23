@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 969 days in the life of a data analyst
+title: 969 days in the life of a Data Analyst
 date: 2025-04-10
-description: A summary of what I did in my previous industry job as a Data Analyst
+description: A summary of what I did in my previous industry job.
 tags: data-analytics, data-science, machine-learning
 categories: work
 giscus_comments: true
