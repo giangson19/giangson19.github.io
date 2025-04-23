@@ -74,15 +74,15 @@ ninja.data = [{
             window.location.href = "/blog/gentle-introduction-to-linear-regression/";
           
         },
-      },{id: "post-my-mentoring-experience",
+      },{id: "post-my-tutoring-experience",
         
-          title: "My mentoring experience",
+          title: "My tutoring experience",
         
         description: "Looking back at the times when I shared my knowledge",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/my-mentoring-experience/";
+            window.location.href = "/blog/my-tutoring-experience/";
           
         },
       },{id: "books-the-godfather",
