@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc Data Science, AI Research Intern @ <a href='https://www.ntu.edu.sg/' target = '_blank' >Nanyang Technological University</a>
+subtitle: Never settle.
 
 profile:
   align: right
@@ -27,14 +27,8 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-Hi, My name is **Son** and I am a MSc Data Science student at [Nanyang Technological University](https://www.ntu.edu.sg/). I am fortunate enough to have been fully sponsored by the [Vingroup Scholarship Program](https://scholarships.vinuni.edu.vn/masters-ph-d-scholarship-program/) for my study at NTU.
+Hi, my name is **Son** and I am a MSc Data Science student at [Nanyang Technological University](https://www.ntu.edu.sg/). I am fortunate enough to have been fully sponsored by the [Vingroup Scholarship Program](https://scholarships.vinuni.edu.vn/masters-ph-d-scholarship-program/) for my study at NTU.
 
 Concurrently, I am also working as a research intern in AI at [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu). I'm supervised by [Assoc. Prof. Shang-wei Lin](https://shangweilin.github.io/) and [Dr. Yon Shin Teo](https://openreview.net/profile?id=~Yon_Shin_Teo1). My ongoing research project involves: vision-language models, image captioning, visual question answering.
 
 *Email*: *c240066 [at] e.ntu [dot] edu.sg*
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
