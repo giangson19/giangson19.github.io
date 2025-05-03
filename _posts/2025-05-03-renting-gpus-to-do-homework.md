@@ -6,6 +6,8 @@ description: Quick tips on renting GPUs to train ML models.
 tags: data-science, machine-learning
 categories: study
 giscus_comments: true
+toc:
+  beginning: true
 ---
 
 
