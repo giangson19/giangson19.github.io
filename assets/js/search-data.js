@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-969-days-in-the-life-of-a-data-analyst",
+        },{id: "post-renting-gpus-to-do-homework",
+        
+          title: "Renting GPUs to do homework",
+        
+        description: "Quick tips on renting GPUs to train ML models.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/renting-gpus-to-do-homework/";
+          
+        },
+      },{id: "post-969-days-in-the-life-of-a-data-analyst",
         
           title: "969 days in the life of a Data Analyst",
         
