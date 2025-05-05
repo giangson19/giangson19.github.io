@@ -20,7 +20,7 @@ In my last semester at NTU, I had to do some work with deep learning, including 
 
 # Where to rent and pricing
 
-You can go on Google and search for “rent GPU” and it will return plenty of sites. I personally used [vast.ai](http://vast.ai) (not affiliated, just the first site that came up in my search). Go to their website and you will see plenty of options: you can choose from a wide range of GPU and storage options, with different pricing of course. I can go as low as RTX 3090 (~0.2\$/hr) or as high as A100 (~0.9\$/hr), which I think is not too expensive – my last group project costed about 10$ in total to train on an A100. Choosing a GPU is matter of need and experience, and unfortunately in this issue I have no advice – I am just as confused as the next guy. 
+You can go on Google and search for “rent GPU” and it will return plenty of sites. I personally used [vast.ai](http://vast.ai) (not affiliated, just the first site that came up in my search). Go to their website and you will see plenty of options: you can choose from a wide range of GPU and storage options, with different pricing of course. I can go as low as RTX 3090 (~0.2\$/hr) or as high as A100 (~0.9\$/hr), which I think is not too expensive – my last group project costed about 10\$ in total to train on an A100. Choosing a GPU is matter of need and experience, and unfortunately in this issue I have no advice – I am just as confused as the next guy. 
 
 # Caveats
 
