@@ -4,6 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - giangson19/blog_website
   - giangson19/ai6103_assignment
+  - giangson19/sd6123_federated_learning
+  - giangson19/DeepLearningLLM  
+  - giangson19/blog_website
   - giangson19/crawl_hnx
